@@ -73,6 +73,8 @@ header {
   z-index: 1000000000000000;
   background-color: var(--bg);
   border-bottom: solid 1px #777;
+  top: 0;
+  left: 0;
 }
 header .container {
   display: flex;
